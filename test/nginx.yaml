@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: nonexistent
+          image: nginx
